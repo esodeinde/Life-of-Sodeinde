@@ -1,0 +1,41 @@
+
+.footer
+{
+	background-color:grey;
+	height:100px;
+	width:100%;
+}
+.jumbotron
+{
+	background-color:lightcyan;
+}
+.footerstyle
+{
+	color:white;
+}
+.main
+{
+	background-color:lightcyan;
+	margin-bottom:35px;
+}
+.footertwo
+{
+	background-color:grey;
+	height:100px;
+	width:100%;
+	margin-top:200px;
+}
+.footerthree
+{
+	background-color:grey;
+	height:100px;
+	width:100%;
+	margin-top:570px;
+}
+.footerfour
+{
+	background-color:grey;
+	height:100px;
+	width:100%;
+	margin-top:570px;
+}
